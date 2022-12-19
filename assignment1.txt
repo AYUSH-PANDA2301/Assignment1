@@ -1,0 +1,63 @@
+A1
+
+* : expression
+'hello': value
+-87.8 : value
+- :expression
+/ :expression
++	:expression
+6 : value
+--------------------------------------------------------
+A2
+
+variable is a placeholder for user to store values of different datatypes like: int,string,float etc.. whereas string is a datatype that can contain alpanumeric characters as well as symbols. anything inside a single or double quote is considered as a string. strings are iterable object like list,sets and dictionories.
+----------------------------------------------------------------------------------------
+A3
+
+int : contains whole numbers negative or positive without decimals
+
+float : like int but with decimals
+
+string : any alpanumeric or expression under quotes in a string
+---------------------------------------------------------------------------------------
+A4
+
+An expression is a combination of operators, constants and variables. An expression may consist of one or more operands and  more operators to produce a value.
+
+-----------------------------------------------------
+
+A5
+
+statements are like actions and commands, eg: print or assignment statement(to assign some value to a variable). whereas expression is a combination of variables, operations to yield a value
+-----------------------------------------------------------
+
+A7
+
+'spam' + 'spamspam': spamspamspam
+'spam' * 3 : spamspamspam
+-------------------------------------
+A6
+
+bacon = 22
+bacon + 1
+
+it would be 22 only
+-----------------------
+A8
+
+because integers can't be used as variable name as per rule
+------------------------------------------
+A9
+ let a = 6
+print(int(a))
+print(float(a))
+print(str(a))
+-----------------------
+A10
+
+because you can't concatinate integer and string.
+it can be fixed by type casting 99(integer) into string
+
+like: 'I have eaten ' + str(99) + ' burritos.'
+
+
